@@ -1207,7 +1207,7 @@ banner(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [X] Exit           |"
+	echo "|  [M] Main Menu    |    * WiFi Hacker v$versionBase  /  Giovinca  /  github.com/Giovinca *    | [X] Exit           |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1228,7 +1228,7 @@ bannerNoMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C x2 ] Exit  |"
+	echo "|  [ CTRL+C ] Main  |    * WiFi Hacker v$versionBase  /  Giovinca  /  github.com/Giovinca *    | [CTRL+C x2 ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1249,7 +1249,7 @@ bannerMain(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Giovinca  /  github.com/Giovinca *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	echo "-------------------------------------------------------------------------------------------------------------------"
 	$yellow
@@ -1269,7 +1269,7 @@ bannerMenu(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Giovinca  /  github.com/Giovinca *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$yellow
 	echo "-------------------------------------------------------------------------------------------------------------------"
@@ -1289,7 +1289,7 @@ bannerSlim(){
 	clear
 	$blue
 	echo "---------------------    ****************************************************************    ----------------------"
-	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  esc0rtd3w 2019  /  github.com/esc0rtd3w *    | [CTRL+C    ] Exit  |"
+	echo "|  [ ]              |    * WiFi Hacker v$versionBase  /  Giovinca  /  github.com/Giovinca *    | [CTRL+C    ] Exit  |"
 	echo "---------------------    ****************************************************************    ----------------------"
 	$white
 
@@ -1321,15 +1321,15 @@ bannerExit(){
 
 	clear
 	$blue
-	echo "Thank You For Playing Fair ;)"
+	echo "=thanks for trying it out ;)"
 	echo ""
-	echo "esc0rtd3w 2019"
+	echo "Giovinca Here "
 	echo ""
 	echo ""
 	$cyan
 	echo "View My Other Projects On GitHub:"
 	echo ""
-	echo "https://github.com/esc0rtd3w"
+	echo "https://github.com/Giovinca"
 	echo ""
 	echo ""
 
@@ -1358,15 +1358,15 @@ bannerExitUpdate(){
 	echo ""
 	echo ""
 	$blue
-	echo "Thank You For Playing Fair ;)"
+	echo "thanks for trying it out ;)"
 	echo ""
-	echo "esc0rtd3w 2019"
+	echo "Giovinca Here"
 	echo ""
 	echo ""
 	$cyan
 	echo "View My Other Projects On GitHub:"
 	echo ""
-	echo "https://github.com/esc0rtd3w"
+	echo "https://github.com/Giovinca"
 	echo ""
 	echo ""
 
