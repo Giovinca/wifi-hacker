@@ -3,6 +3,6 @@ WIFI HACKER CREATED ON KALI LINUX AND Supports All Securities (WEP, WPS, WPA, WP
 
 help? https://www.facebook.com/vinchCTD
 
-$ chmod a+x wifi-hacker
-$ ./wifi-hacker
+$ chmod a+x wifi-hacker.sh 
+$ ./wifi-hacker.sh
 $ run
